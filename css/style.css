@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(223, 230, 218);
+}
+
+img{
+    width: 50%;
+    margin: 16px;
+}
+
+.wrapper{
+    display: inline-block;
+    margin-left: 16px;
+    margin-top: 16px;
+}
+
+ul{
+    padding-top: 16px;
+}
+
+.conteyner{
+    margin-left: 16px;
+    padding-left: 16px;
+}
